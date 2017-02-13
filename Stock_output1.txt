@@ -1,0 +1,361 @@
+﻿Profit growth slumps at #Apple but Street sees grounds for optimism. Read more: https://t.co/CwG7FM7NdS $AAPL) --> prob=[0.19383402234198133,0.8061659776580187], prediction=1.0
+(Profit growth slumps at #Apple but Street sees grounds for optimism. Read more: https://t.co/mxjM3GQE7q $AAPL) --> prob=[0.2541529300688778,0.7458470699311222], prediction=1.0
+(#Apple turns to made up products as cash cow gets stuck. Read more: https://t.co/pTxKrfDzB3 $AAPL) --> prob=[0.10844571105672715,0.8915542889432728], prediction=1.0
+(RT @stocksandbounds: Hain Celestial ($HAIN) Looks Ready To Climb: https://t.co/Z7mmdE04uY) --> prob=[0.020169947910181,0.979830052089819], prediction=1.0
+((tags: $WWAV $WFM $X $GIS $K $SPY $SPX $DIA $QQQ…) --> prob=[0.04255199055825333,0.9574480094417467], prediction=1.0
+(RT @MatrixMarkets: Weekly Market Review) --> prob=[0.03754719223198173,0.9624528077680183], prediction=1.0
+($SPX $SPY YTD +6.3% 12ME +3.1%) --> prob=[0.017198830981471496,0.9828011690185285], prediction=1.0
+($SPX $SPY YTD +6.3% 12ME +3.1%) --> prob=[0.017198830981471496,0.9828011690185285], prediction=1.0
+(https://t.co/MqeKMYHJ6N) --> prob=[0.07258570539423558,0.9274142946057645], prediction=1.0
+($QQQ $IWM $SMH $IBB $AAPL $TLT $GOOGL https:…) --> prob=[0.03555347568303302,0.9644465243169671], prediction=1.0
+(This legendary Silicon Valley VC firm had a chance to invest in #Apple, Google and Facebook... Read more: https://t.co/XcOe84jWaF $AAPL) --> prob=[0.7897184847075848,0.2102815152924153], prediction=0.0
+(#Apple's doomsday will just have to wait (The 3:59, Ep. 85)     - CNET. Read more: https://t.co/Q3YpZnsLh7 $AAPL) --> prob=[0.9993900635343043,6.099364656956649E-4], prediction=0.0
+(#Apple's doomsday will just have to wait (The 3:59, Ep. 85)     - CNET. Read more: https://t.co/V0fIn1KeJp $AAPL) --> prob=[0.9985614842112411,0.0014385157887587944], prediction=0.0
+(Friday Apple Rumors: Apple Wins Patent for iPad Digital Crown - https://t.co/S6ua63nrA8 https://t.co/lgjzPoYEYi #TeamFollowBack) --> prob=[0.29474081949723285,0.705259180502767], prediction=1.0
+(#Apple Suffers Hardware Failure, The Latest Nintendo NX Rumors... [Tech News Digest]. Read more: https://t.co/oURgR8HoPl $AAPL) --> prob=[0.002110677882899159,0.9978893221171009], prediction=1.0
+(Busy week for earnings is a busy week for us. Find all our media in GK's Week In Review. $aapl $googl $fb #pokemongo https://t.co/6Hel7dQSnj) --> prob=[0.005572282702007585,0.9944277172979923], prediction=1.0
+(Highlights From Gene Munster's Thoughts On #Apple Following Earnings. Read more: https://t.co/arfbfOE7i6 $AAPL) --> prob=[0.09464383369647435,0.9053561663035257], prediction=1.0
+(#Apple confirms it is investing heavily in augmented reality. Read more: https://t.co/3eWea49qfu $AAPL) --> prob=[0.8779883330064362,0.12201166699356375], prediction=0.0
+(RT @MatrixMarkets: Weekly Market Review) --> prob=[0.03754719223198173,0.9624528077680183], prediction=1.0
+(#NASDAQ_MSFT #NASDAQ_AAPL Windows 10 Is Great, Make Sure You Hit The Upgrade Button Today: For all the moaning… https://t.co/K3evQGl7vO) --> prob=[0.19778623079036783,0.8022137692096322], prediction=1.0
+(16th jul. 2012: the stretchy aapl: LsjsJbd) --> prob=[0.9511785093004232,0.04882149069957676], prediction=0.0
+($SPX $SPY YTD +6.3% 12ME +3.1%) --> prob=[0.017198830981471496,0.9828011690185285], prediction=1.0
+($QQQ $IWM $SMH $IBB $AAPL $TLT $GOOGL https:…) --> prob=[0.03555347568303302,0.9644465243169671], prediction=1.0
+(#Formation Data for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL… https://t.co/6PbcusLmtg……… https://t.co/w52jCeHsAm) --> prob=[0.01234390886320157,0.9876560911367983], prediction=1.0
+(Friday Apple Rumors: Apple Wins Patent for iPad Digital Crown - https://t.co/ACGfS9xxmr https://t.co/Cjz0YjUbS0) --> prob=[0.04307069192759371,0.9569293080724063], prediction=1.0
+(RT @thebrandindex: For all you 1 dimensional BEARS, what happens when  wages break a 15 YR downtrend? $LULU $AAPL $UA $NKE $HD $AMZN https:…) --> prob=[8.520444788421007E-4,0.9991479555211579], prediction=1.0
+(Own $GOOGL $AMZN $AAPL $FB never ever sell) --> prob=[0.36011928108326674,0.6398807189167331], prediction=1.0
+($SPX $SPY YTD +6.3% 12ME +3.1%) --> prob=[0.017198830981471496,0.9828011690185285], prediction=1.0
+($SPX $SPY YTD +6.3% 12ME +3.1%) --> prob=[0.017198830981471496,0.9828011690185285], prediction=1.0
+($QQQ $IWM $SMH $IBB $AAPL $TLT $GOOGL https://t.co/sMaluVP795) --> prob=[0.06379014117162325,0.9362098588283767], prediction=1.0
+(#Formation Data for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL… https://t.co/6PbcusLmtg……… https://t.co/Sirdzv83uN) --> prob=[0.0011021540193927946,0.9988978459806073], prediction=1.0
+(RT @Sandro_power: $AAPL I posted this plan on july 26 if you followed my instructions you made profits by buying the 103 area pullback http…) --> prob=[0.013287774358570108,0.9867122256414299], prediction=1.0
+(RT @DozenStocks: S&P100 #Stocks Trend $GOOGL $ABBV $SPG $CELG $ABT $AAPL $AMZN $BLK $AMGN $HD $GD $EXC $RTN $BIIB $UNH $QCOM  @ https://t.c…) --> prob=[3.112346358434567E-4,0.9996887653641566], prediction=1.0
+(RT @DozenStocks: Dow #Stocks Trend $AAPL $HD $UNH $MSFT $UTX $DD $JPM $JNJ $INTC $VZ $PG $CSCO $CAT $PFE $V $IBM $MRK $MMM $CVX  @ https://…) --> prob=[0.004304914922324159,0.9956950850776759], prediction=1.0
+(RT @Benzinga: Interested In Investing In Virtual Reality? Here Are The Purest Plays $IMMR $MVIS $KOPN $AAPL $ADBE $FB https://t.co/8O0o5tCd…) --> prob=[0.9999793611300567,2.0638869943230264E-5], prediction=0.0
+(Busy week for earnings with Apple AAPL , Facebook FB , Amazon AMZN and Alphabet GOOGL all reporting. The head... https://t.co/5bdBY4P4cF) --> prob=[0.002036180037028521,0.9979638199629716], prediction=1.0
+($AAPL: Analyst action by Brean Capital on Apple: https://t.co/gLTJ5f5ZrF https://t.co/BIVyx6VgVF) --> prob=[0.49486794457890587,0.5051320554210941], prediction=1.0
+(Apple iMessage Will Bring Millions to Mobile Marketing: Busy week for earnings with Apple AAPL , Facebook FB ... https://t.co/zaJeO5gYJs) --> prob=[1.1646467281997733E-5,0.999988353532718], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL............... https://t.co/aRSe1hvPqd) --> prob=[0.015553516830990273,0.9844464831690096], prediction=1.0
+(Nasdaq up as $GOOGL crushes estimates following great report by $AAPL Bios hot $LABU Chart n Video https://t.co/gwrhL3P7oQ) --> prob=[0.28215365987814156,0.7178463401218584], prediction=1.0
+(16th jul. 2012: the movable aapl: oixtCbS) --> prob=[0.9504539525475139,0.04954604745248628], prediction=0.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for…………………… https://t.co/NkiFKLDSDo) --> prob=[4.088353387873034E-4,0.9995911646612127], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL............... https://t.co/PjSpgEglNR) --> prob=[0.07112252208934496,0.9288774779106551], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL........................... https://t.co/4iHb0QTles) --> prob=[0.0041201881269323755,0.9958798118730675], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL... https://t.co/g3z648i2oy) --> prob=[9.448660317276114E-4,0.9990551339682725], prediction=1.0
+(RT @CBOE: most active #options: $GOOG, $XOM, $AMZN, $AAPL, & $FB @MarleyKayden https://t.co/JkryMcsJMk https://t.co/A5ptfD31fI) --> prob=[0.8611344766436145,0.1388655233563855], prediction=0.0
+(#Formation Data for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL... https://t.co/6PbcusLmtg...... https://t.co/qu6pQay97h) --> prob=[3.3137400989123475E-4,0.9996686259901088], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for............... https://t.co/gQzfWym8FG) --> prob=[0.0010813937172294162,0.9989186062827706], prediction=1.0
+(Feature Request: App installs via web w/ a redesigned iTunes + App Store web… https://t.co/sScPtKNV1T #9to5Mac $AAPL https://t.co/RS3B46X2H9) --> prob=[2.241238002054057E-4,0.9997758761997946], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL..................... https://t.co/WF9WvTcJOF) --> prob=[0.0028624895620439094,0.9971375104379562], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL...... https://t.co/Jy900UhVcJ) --> prob=[0.005416970287977737,0.9945830297120223], prediction=1.0
+(Technology Sector Update for 07/29/2016: ININ,TSRI,MSTR: Top Tech Stocks MSFT +0.60% AAPL 0.17% IBM 0.39% CSC... https://t.co/9tVkm2YdTB) --> prob=[0.792182899512187,0.207817100487813], prediction=0.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL...... https://t.co/HUvoU72HFG) --> prob=[0.002514499563290555,0.9974855004367094], prediction=1.0
+(AppleMusic: Love us some new jakeowen ❤️) --> prob=[0.8641934506193129,0.13580654938068712], prediction=0.0
+(#AmericanLove has arrived.) --> prob=[0.9249959077238862,0.07500409227611386], prediction=0.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL... https://t.co/JL1EPsF1si... https://t.co/kz79G2ebFl) --> prob=[0.004689266905022452,0.9953107330949775], prediction=1.0
+(#Formation Data for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for.............................. https://t.co/D7nnMqpA8e) --> prob=[0.03920303946458346,0.9607969605354166], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL... https://t.co/vOMupF7aU7) --> prob=[7.077489773539302E-4,0.999292251022646], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for.................. https://t.co/zGox78uGD9) --> prob=[3.245098827368587E-4,0.9996754901172632], prediction=1.0
+(#Formation Data for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for………………… https://t.co/LUs0l8nCpn) --> prob=[1.1411408085933256E-4,0.9998858859191406], prediction=1.0
+(Nasdaq100 #Stocks Trend $LMCA $REGN $GOOGL $INCY $CELG $ISRG $ORLY $TMUS $XLNX $ILMN $AAPL $NVDA $AMZN $VRTX  @ https://t.co/YdSIjFJqHf) --> prob=[0.02495420843030581,0.9750457915696943], prediction=1.0
+(S&P100 #Stocks Trend $GOOGL $ABBV $SPG $CELG $ABT $AAPL $AMZN $BLK $AMGN $HD $GD $EXC $RTN $BIIB $UNH $QCOM  @ https://t.co/cKkr8cKsju) --> prob=[7.515737237488814E-4,0.9992484262762511], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for…………………………............... https://t.co/VxwcLiQxMA) --> prob=[0.0042777931118149065,0.995722206888185], prediction=1.0
+(Dow #Stocks Trend $AAPL $HD $UNH $MSFT $UTX $DD $JPM $JNJ $INTC $VZ $PG $CSCO $CAT $PFE $V $IBM $MRK $MMM $CVX  @ https://t.co/TvzJfcJgPl) --> prob=[0.004025935260597452,0.9959740647394025], prediction=1.0
+(RT @TickerLensAAPL: Park Circle Co buys $1381240 stake in Apple (AAPL) https://t.co/u0ravry6TB $AAPL) --> prob=[0.9901443418728557,0.00985565812714436], prediction=0.0
+(RT @Investing_Books: Investing in Your 20's and 30's for Dummies: https://t.co/9LLcqh1LiS #stocks #investing $FB $GE $AMZN $AAPL) --> prob=[0.11505696245008565,0.8849430375499144], prediction=1.0
+(#shocked face here) --> prob=[0.423258726407682,0.576741273592318], prediction=1.0
+(Also had 1 for @SpeakerRyan) --> prob=[0.610017585959382,0.3899824140406179], prediction=0.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for #unlock…………………............ https://t.co/6Ci8LNRnap) --> prob=[2.4570538404297183E-4,0.999754294615957], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for........................ https://t.co/pEiQEW85Aa) --> prob=[0.028869112728975473,0.9711308872710245], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for…………………………......... https://t.co/daPBNvKlCc) --> prob=[0.0014390135877359166,0.9985609864122642], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for......... https://t.co/2O7dGx9zhA) --> prob=[4.616257483093043E-4,0.9995383742516907], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for #unlock…………………......... https://t.co/zuOtFcx46m) --> prob=[4.722686025798116E-4,0.9995277313974201], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for…………………………...... https://t.co/38JKm8OhSv) --> prob=[0.0013110425198681747,0.9986889574801319], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for...... https://t.co/3NkVWVtqYG) --> prob=[0.0011059207805879095,0.9988940792194121], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL............... https://t.co/15yaYTPmFL) --> prob=[0.020277518745915445,0.9797224812540845], prediction=1.0
+(https://t.co/lFOYIVern1) --> prob=[0.9297696489132046,0.07023035108679543], prediction=0.0
+(AppleMusic: RT WildBeasts: One week until Boy King... but you can listen early on AppleMusic right now: … https://t.co/OQumG18hSB) --> prob=[0.6118175890303567,0.3881824109696434], prediction=0.0
+(1 Investing Lesson to Take Away From InvenSense’s Fall:) --> prob=[0.9616935427040392,0.038306457295960765], prediction=0.0
+(https://t.co/ChbtI0R0Xd) --> prob=[0.9127532792983272,0.0872467207016729], prediction=0.0
+(RT @MadMoneyOnCNBC: .@jimcramer says last quarter, $AAPL "ran into the highest quality problem, too much demand." https://t.co/1InncpK3JB) --> prob=[0.7286942950439849,0.27130570495601514], prediction=0.0
+(#Formation Data for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for............ https://t.co/MAW4q5Jf8M) --> prob=[0.004203382684743258,0.9957966173152568], prediction=1.0
+(#Deusdedit Dearing for the follow #CLOUDUNLOCK Check Out #Apple #iCloud #iPhone $AAPL for........................... https://t.co/pEXHzXdFvR) --> prob=[1.0578395773963356E-4,0.9998942160422604], prediction=1.0
+($GOOGL pelea el n1 con $AAPL ) --> prob=[0.4566804936414404,0.5433195063585596], prediction=1.0
+(Si, #Tecnologia  al #poder. https://t.co/FxN6isezJy) --> prob=[0.9695704417786934,0.030429558221306677], prediction=0.0
+(RT @computer_hware: BRIEF-S&P assigns 'AA+' rating to #Apple Inc's senior unsecured notes. Read more: https://t.co/zN33GmIq5G $AAPL) --> prob=[0.41697088820831874,0.5830291117916813], prediction=1.0
+(RT @Jim32614: @olvelez007 Why didn't you trade $AAPL this a.m.?) --> prob=[0.9887298213294583,0.011270178670541678], prediction=0.0
+(RT @srussolillo: Fascinating: What 1 billion iPhones actually means https://t.co/Rs4Z1bH5oz via @mcwm @qz $AAPL https://t.co/HdXmAONcEO) --> prob=[0.9694591682416585,0.0305408317583415], prediction=0.0
+(#Apple's free app of the week: Power Hover. Read more: https://t.co/fz4pjA3UEQ $AAPL) --> prob=[0.8188457914000711,0.18115420859992887], prediction=0.0
+(#Apple's free app of the week: Power Hover. Read more: https://t.co/qTae0pH6Ry $AAPL) --> prob=[0.6256537593177643,0.3743462406822356], prediction=0.0
+(RT @chamath: $AAPL now officially has more in common with $IBM than it does with $GOOG, $FB and $AMZN...#buyerbeware https://t.co/4OSrcdJFxw) --> prob=[0.7708056450521157,0.2291943549478842], prediction=0.0
+(Beats1: RT WestSideGyrl: 🔑MAJOR KEY ALERT🔑 In support of djkhaled's new album dropping at 6pm, we doin' WE DA BEST REQUEST today! Tap into …) --> prob=[0.999987077777206,1.2922222794006013E-5], prediction=0.0
+(Check out #Apple's new hipster headquarters in Brooklyn. Read more: https://t.co/AyUC209Qbl $AAPL) --> prob=[0.014520926592501157,0.9854790734074987], prediction=1.0
+(#Apple launches new Spanish language App Store account on Twitter. Read more: https://t.co/6DxwsR335l $AAPL) --> prob=[0.01917936685231017,0.98082063314769], prediction=1.0
+(Apple ne construira peut-être pas sa propre voiture finalement https://t.co/ybRikY7aIU) --> prob=[0.21318308411550502,0.786816915884495], prediction=1.0
+(RT @BroadStreetPick: $PYDS news out today mentions $AAPL July 28th  - https://t.co/kIzpNXnIAi) --> prob=[0.07130282833100297,0.9286971716689969], prediction=1.0
+(RT @MacHashNews: Cirrus Logic shares rise on Apple iPhone, other devices dropping 3.5mm… https://t.co/Ein4PkGwtq #AppleInsider $AAPL https:…) --> prob=[0.15748989090661944,0.8425101090933805], prediction=1.0
+(#Apple updates iMovie for iOS with easy project creation, new sharing options. Read more: https://t.co/aiVLevmd7L $AAPL) --> prob=[0.10085928301647948,0.8991407169835206], prediction=1.0
+(—@NFL teams) --> prob=[0.9876427674275396,0.012357232572460351], prediction=0.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(—@NHL teams) --> prob=[0.9948693289026246,0.005130671097375447], prediction=0.0
+(Cramer's stocks to watch: AAPL, BA, & KO https://t.co/Rke7KZbiBa https://t.co/CdlSldoEov) --> prob=[0.02606034431180884,0.9739396556881912], prediction=1.0
+(I don't understand why the middle class pours money into the stock market. They are just going to lose their money. $QQQ $FB $AAPL $TWTR) --> prob=[0.8654366106386876,0.1345633893613124], prediction=0.0
+(RT @bespokeinvest: Today was Apple's $AAPL 11th best earnings reaction day since '01 & its best since 4/24/14, from our earnings DB: https:…) --> prob=[0.91333950520987,0.08666049479013], prediction=0.0
+(#Apple Review: Bear notes app for Mac. Read more: https://t.co/mtW8xd16qH $AAPL) --> prob=[0.00919135262857759,0.9908086473714224], prediction=1.0
+(#Apple Review: Bear notes app for Mac. Read more: https://t.co/Yo5FaEyf7f $AAPL) --> prob=[0.02046014434071437,0.9795398556592856], prediction=1.0
+(https://t.co/8FLYC0z025) --> prob=[0.9205797946864096,0.07942020531359047], prediction=0.0
+(What Stalling Tablet Sales Mean for AAPL, GOOG &amp; MSFT https://t.co/ZUtuZOz3nx) --> prob=[0.9815377764898232,0.018462223510176835], prediction=0.0
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(RT @snyder_karl: May be an $AAPL post via @seeitmarket end of this week have to see how it closes but looks interesting here #trendfollowing) --> prob=[0.9976550453622485,0.0023449546377515493], prediction=0.0
+(#Apple sells its billionth iPhone, year-over-year decline be damned. Read more: https://t.co/AMe3JTWJUM $AAPL) --> prob=[0.8626891273008732,0.13731087269912684], prediction=0.0
+(RT @counternotions: Finally, Tim Cook is figuring out how to pull up $AAPL: lower sales, lower margins, lower profits, lower cash on hand =…) --> prob=[0.958023533472765,0.04197646652723484], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(and still have $21 bi…) --> prob=[0.9903105361850831,0.009689463814916893], prediction=0.0
+(#Apple sells its billionth iPhone, year-over-year decline be damned. Read more: https://t.co/SM610OyjDO $AAPL) --> prob=[0.5591619527085355,0.4408380472914644], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(and still have $21 bi…) --> prob=[0.9903105361850831,0.009689463814916893], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(Airbnb) --> prob=[0.9758509396750608,0.024149060324939093], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(SpaceX) --> prob=[0.9823359696134516,0.017664030386548357], prediction=0.0
+(RT @arnabch01: #AI #BigData #robotics #3dprinting #IoT t revolutionize #auto $AAPL $CSCO $INTC $GOOG $GM $F https://t.co/y8R928ecxp https:/…) --> prob=[0.9545256376706032,0.045474362329396924], prediction=0.0
+($AAPL:) --> prob=[0.34191158575645386,0.6580884142435461], prediction=1.0
+(Samsung Profit Tops Estimates on S7, Lower Marketing Costs:) --> prob=[0.8692493837135747,0.1307506162864252], prediction=0.0
+(https://t.co/PTSO1ilExa) --> prob=[0.9515145737632886,0.04848542623671148], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(Airbnb) --> prob=[0.9758509396750608,0.024149060324939093], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(SpaceX) --> prob=[0.9823359696134516,0.017664030386548357], prediction=0.0
+(and still have $21 bi…) --> prob=[0.9903105361850831,0.009689463814916893], prediction=0.0
+(#Apple is a consumer staple stock now, buy it, says Raymond James analyst. Read more: https://t.co/C1nB9pzcxG $AAPL) --> prob=[0.8276017259593687,0.17239827404063135], prediction=0.0
+(ELD.TO Canadian Natural Resources Ltd. Last Trade) --> prob=[0.97556277425939,0.02443722574060997], prediction=0.0
+($ELD.TO $FB $AAPL #stockmarket) --> prob=[0.9424060918254317,0.05759390817456834], prediction=0.0
+(RT @theflynews: Barron's says Apple remains a Buy even after recent speed bump. Here's why: https://t.co/ECoG7YLPm6 $AAPL) --> prob=[0.8879744240778681,0.11202557592213193], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(and still have $21 bi…) --> prob=[0.9903105361850831,0.009689463814916893], prediction=0.0
+(RT @SpeedyCalls: $AAPL hearing Upgraded) --> prob=[0.23754711649596338,0.7624528835040366], prediction=1.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy all) --> prob=[0.999059769136302,9.402308636979582E-4], prediction=0.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(—@NHL teams) --> prob=[0.9948693289026246,0.005130671097375447], prediction=0.0
+(RT @srussolillo: Fascinating: What 1 billion iPhones actually means https://t.co/Rs4Z1bH5oz via @mcwm @qz $AAPL https://t.co/HdXmAONcEO) --> prob=[0.9694591682416585,0.0305408317583415], prediction=0.0
+(RT @JohnSpall247: $fb CRUSHES NUMBERS 4'TS @srussolillo @CNBCnow @WSJ @CNBCClosingBell $AAPL $GOOGL #Nasdaq $QQQ CLOSE ABOVE ALL TIME https…) --> prob=[0.0013608260324099077,0.9986391739675902], prediction=1.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(RT @WarriorTrading1: Don't miss TONIGHT's #DayTrading Webinar! Register https://t.co/JgPAX1IUXZ | $AAPL $OPTT $FB $MDGS $ALIM $GPRO $EBIO h…) --> prob=[0.941799906310695,0.0582000936893051], prediction=0.0
+(This chart: https://t.co/7VFY0S2yfd) --> prob=[0.9020920579848053,0.09790794201519469], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(SpaceX) --> prob=[0.9823359696134516,0.017664030386548357], prediction=0.0
+(RT @SAI: Smartwatch shipments have plummeted compared to last year thanks to the Apple Watch $AAPL https://t.co/vyCLGO2HXw https://t.co/jbq…) --> prob=[0.999994220295393,5.779704606971069E-6], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(SpaceX) --> prob=[0.9823359696134516,0.017664030386548357], prediction=0.0
+(Tim Cook gave two hints about what Apple will build next (AAPL) https://t.co/53CHPrxtye) --> prob=[0.9982266605825464,0.0017733394174537698], prediction=0.0
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(Airbnb) --> prob=[0.9758509396750608,0.024149060324939093], prediction=0.0
+(Netflix) --> prob=[0.9823548570765046,0.017645142923495453], prediction=0.0
+(SpaceX) --> prob=[0.9823359696134516,0.017664030386548357], prediction=0.0
+(and still have $21 bi…) --> prob=[0.9903105361850831,0.009689463814916893], prediction=0.0
+(RT @kevinrose: I worry about $AAPL earnings today...a miss could drag down the sector) --> prob=[0.8489547212314191,0.15104527876858095], prediction=0.0
+... skipped 8735 bytes ...
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(Netflix) --> prob=[0.9823548570765046,0.017645142923495453], prediction=0.0
+(RT @The_Real_Fly: $AAPL is the new Dell https://t.co/xAXXwL3wuN) --> prob=[0.9214113840304489,0.0785886159695511], prediction=0.0
+(RT @markflowchatter: Lesson learned to not have Colin Gillis on the tube giving $AAPL advice @ScottWapnerCNBC Love to hear the other side o…) --> prob=[0.8535380288521867,0.14646197114781334], prediction=0.0
+(#Apple revenue in China plunges 33% over last year; Europe now its second-largest market. Read more: https://t.co/KXoI8WuKqc $AAPL) --> prob=[0.9464615617944045,0.053538438205595326], prediction=0.0
+($AAPL - Apple Earnings Fall on IPhone Slump -- 3rd Update https://t.co/ms3yGJ4DOh) --> prob=[0.9995693674796836,4.3063252031637085E-4], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy all) --> prob=[0.999059769136302,9.402308636979582E-4], prediction=0.0
+(—@NFL teams) --> prob=[0.9876427674275396,0.012357232572460351], prediction=0.0
+(Fact: @karefinerman is 99% right on $aapl and she's always the loveliest and classiest among Fast Money panelists.) --> prob=[0.8875089479050889,0.11249105209491093], prediction=0.0
+($AAPL is up over $100 after hours!!) --> prob=[0.8708454768243548,0.12915452317564532], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Netflix) --> prob=[0.9823548570765046,0.017645142923495453], prediction=0.0
+(See why these assets are trending in 1 watchlist #fintech $AAPL $EURUSD $TWTR $USDJPY https://t.co/RjUT3FtBlF https://t.co/k2gEQnpkst) --> prob=[0.6232045113864486,0.3767954886135514], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(Airbnb) --> prob=[0.9758509396750608,0.024149060324939093], prediction=0.0
+(Netflix) --> prob=[0.9823548570765046,0.017645142923495453], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(RT @EconomyWrld: Tim Cook just reignited speculation about Apple's big TV plans (AAPL) https://t.co/RVumCh0ppt https://t.co/ZGErXjX3IR) --> prob=[0.9999707844454039,2.9215554596049065E-5], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+($AAPL $QQQ $TWTR https://t.co/fq5RsV4Sc8) --> prob=[0.9679201385312999,0.03207986146870018], prediction=0.0
+(#Apple CEO Tim Cook talks Pokemon and augmented reality. Read more: https://t.co/3BF8rmxbf9 $AAPL) --> prob=[0.7996191087145997,0.20038089128540018], prediction=0.0
+(—@NFL teams) --> prob=[0.9876427674275396,0.012357232572460351], prediction=0.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(...still have $78.5 bi…) --> prob=[0.9927262953972286,0.007273704602771362], prediction=0.0
+(—@NFL teams) --> prob=[0.9876427674275396,0.012357232572460351], prediction=0.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(—@NHL teams) --> prob=[0.9948693289026246,0.005130671097375447], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy all) --> prob=[0.999059769136302,9.402308636979582E-4], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(...still have $78.5 bi…) --> prob=[0.9927262953972286,0.007273704602771362], prediction=0.0
+($AAPL $GOOG $LNVGY:) --> prob=[0.846034608200317,0.15396539179968302], prediction=0.0
+(Tim Cook pronounces ‘Pokemon’ like a dad, but sees possibilities for …:) --> prob=[0.9349914352370816,0.06500856476291836], prediction=0.0
+($TWTR $AAPL:) --> prob=[0.40954076811489964,0.5904592318851003], prediction=1.0
+(—@NFL teams) --> prob=[0.9876427674275396,0.012357232572460351], prediction=0.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(...still have $78.5 bi…) --> prob=[0.9927262953972286,0.007273704602771362], prediction=0.0
+(RT @SJosephBurns: That is a lot of earnings to hold $AAPL through: https://t.co/M1IzvParul) --> prob=[0.923154598643031,0.07684540135696907], prediction=0.0
+(Hot Topics: Nerve, Keisha Knight Pulliam, Miss Cleo, AAPL, Demi Lovato, ...) --> prob=[0.9996849383350512,3.1506166494877003E-4], prediction=0.0
+(Apple CEO Tim Cook can’t pronounce Pokémon but he still thinks it’s incredible (AAPL) https://t.co/Hrvn5vpGXt #Business) --> prob=[0.9771152698075406,0.02288473019245947], prediction=0.0
+(Aapl risk reversal at $96 sold puts and bought otm calls $$$$$$$$ huge gains tomorrow) --> prob=[0.9175446022272362,0.0824553977727638], prediction=0.0
+(RT @CNBCFastMoney: Apple jumps 7% after earnings, BGC's Colin Gillis defends his sell call ahead of the report $AAPL) --> prob=[0.9916279048690513,0.008372095130948701], prediction=0.0
+(https://t.co/ph1jj1bu7C) --> prob=[0.9471427660993612,0.05285723390063868], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy all) --> prob=[0.999059769136302,9.402308636979582E-4], prediction=0.0
+(—@NFL teams) --> prob=[0.9876427674275396,0.012357232572460351], prediction=0.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(Commented on StockTwits: $AAPL.  No need for Ad Hom on the messenger.  Coun... https://t.co/BFii32K3oB) --> prob=[0.6387750768893983,0.36122492311060167], prediction=0.0
+(—@NFL teams) --> prob=[0.9876427674275396,0.012357232572460351], prediction=0.0
+(...still have $78.5 bi…) --> prob=[0.9927262953972286,0.007273704602771362], prediction=0.0
+(Rrrrrrrriiipp #AAPL 💰🍎 https://t.co/HFsjsIESMM) --> prob=[0.9904189618074923,0.009581038192507753], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy all) --> prob=[0.999059769136302,9.402308636979582E-4], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy all) --> prob=[0.999059769136302,9.402308636979582E-4], prediction=0.0
+(—@NFL teams) --> prob=[0.9876427674275396,0.012357232572460351], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(—@NHL teams) --> prob=[0.9948693289026246,0.005130671097375447], prediction=0.0
+(Apple Q3 iphone 40.4 mln vs. 48 mln, FactSet est. 40 mln https://t.co/Opp6COad5E) --> prob=[0.5395381615856657,0.46046183841433425], prediction=0.0
+(Apple Q3 iphone 40.4 mln vs. 48 mln, FactSet est. 40 mln https://t.co/slBSsA4RdR) --> prob=[0.9153571418306559,0.08464285816934407], prediction=0.0
+(RT @businessinsider: Apple $AAPL R&D spending keeps rising even as revenue dips (UPDATED with new charts) https://t.co/53LCzd4pS5 https://t…) --> prob=[0.1422802241305574,0.8577197758694426], prediction=1.0
+(Was gonna sell my #AAPL at 3:55pm as the gloom&doom TV morons lambasted it pre earnings. Then realized..it's the cities only crowded store!) --> prob=[0.5063045484637619,0.49369545153623795], prediction=0.0
+(L'Europe à nouveau (et provisoirement) le deuxième marché d'Apple https://t.co/bEci8kwvpR) --> prob=[0.998898231594526,0.001101768405473935], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Airbnb) --> prob=[0.9758509396750608,0.024149060324939093], prediction=0.0
+(Netflix) --> prob=[0.9823548570765046,0.017645142923495453], prediction=0.0
+(and still have $21 bi…) --> prob=[0.9903105361850831,0.009689463814916893], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(—@NHL teams) --> prob=[0.9948693289026246,0.005130671097375447], prediction=0.0
+(...still have $78.5 bi…) --> prob=[0.9927262953972286,0.007273704602771362], prediction=0.0
+(RT @CRN: Apple Cites Strong iPad Pro Sales For Work, But Partners Lament Sluggish Pace of Mac Refreshes: https://t.co/zr2SF61pKx $AAPL #iPad) --> prob=[0.9885005971355232,0.011499402864476867], prediction=0.0
+(Tim Cook just reignited speculation about Apple's big TV plans (AAPL) https://t.co/RVumCh0ppt https://t.co/ZGErXjX3IR) --> prob=[0.99992451607805,7.548392195002968E-5], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(—@NHL teams) --> prob=[0.9948693289026246,0.005130671097375447], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(...still have $78.5 bi…) --> prob=[0.9927262953972286,0.007273704602771362], prediction=0.0
+(Is AAPL revenue shrinking? Check out @ClintonSPX message on StockTwits https://t.co/K3Q7otF3XK) --> prob=[8.561632583660022E-4,0.999143836741634], prediction=1.0
+(#nasdaq https://t.co/vE0xGeo7ar) --> prob=[0.722631294852994,0.27736870514700596], prediction=0.0
+(Apple Inc (AAPL) Hires Ex-Microsoft Corporation Product Security... https://t.co/r1AJ86wldZ #Microsoft_Corporation) --> prob=[0.997668417780954,0.002331582219046056], prediction=0.0
+(RT @Obsurvur: @cheapbeta "we traded AAPL well" https://t.co/AmCs05Cbu6) --> prob=[0.3558562200164698,0.6441437799835301], prediction=1.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(—@MLB teams) --> prob=[0.9866322885574524,0.013367711442547444], prediction=0.0
+(—@NHL teams) --> prob=[0.9948693289026246,0.005130671097375447], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(Airbnb) --> prob=[0.9758509396750608,0.024149060324939093], prediction=0.0
+(Netflix) --> prob=[0.9823548570765046,0.017645142923495453], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy all) --> prob=[0.999059769136302,9.402308636979582E-4], prediction=0.0
+("Apple sold 40.4 million iPhones this quarter, beating expectations but still declining (AAPL)"  https://t.co/85ONyFCa15) --> prob=[0.018689201760133806,0.9813107982398662], prediction=1.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(Airbnb) --> prob=[0.9758509396750608,0.024149060324939093], prediction=0.0
+(Netflix) --> prob=[0.9823548570765046,0.017645142923495453], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(SpaceX) --> prob=[0.9823359696134516,0.017664030386548357], prediction=0.0
+($…) --> prob=[0.9293746595237778,0.07062534047622226], prediction=0.0
+(RT @chikawatanabe: アップル四半期決算で「その他収入」350億円。私もほしい、その規模の「その他」w RT @DavidInglesTV: Apple sees "other income" in 4Q at $350M...just like a footn…) --> prob=[0.9839682509887324,0.016031749011267596], prediction=0.0
+(RT @DavidInglesTV: Apple sees "other income" in 4Q at $350,000,000....just like a footnote that was almost innocently left out..) --> prob=[0.9856357899369772,0.014364210063022792], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy:) --> prob=[0.9966595661999796,0.0033404338000203836], prediction=0.0
+(Uber) --> prob=[0.9412323023386532,0.05876769766134688], prediction=0.0
+(Tesla ) --> prob=[0.9833214683497941,0.016678531650205827], prediction=0.0
+(Twitter ) --> prob=[0.96666273054557,0.033337269454429996], prediction=0.0
+(Airbnb) --> prob=[0.9758509396750608,0.024149060324939093], prediction=0.0
+(Snapchat) --> prob=[0.9865263878410616,0.0134736121589384], prediction=0.0
+(アップル四半期決算で「その他収入」350億円。私もほしい、その規模の「その他」w RT @DavidInglesTV: Apple sees "other income" in 4Q at $350M...just like a footnote #Amazing $AAPL) --> prob=[0.9986456931874612,0.0013543068125387444], prediction=0.0
+(As iPhone sale sag, #Apple touts apps and services instead. Read more: https://t.co/bDo3lMTdaV $AAPL) --> prob=[0.9301546405996526,0.0698453594003474], prediction=0.0
+(FousFan: FousFan: FousFan: FousFan: FousFan: FousFan: FousFan: FousFan: RiskReversal: ICYMI: Bobbing for Apple (AAPL) ... read more ↓  …) --> prob=[0.9999964814132867,3.518586713428916E-6], prediction=0.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(RT @DavidInglesTV: Apple's 3Q Sales Product Mix (% of revenue): ) --> prob=[0.9998728794641019,1.2712053589806463E-4], prediction=0.0
+(Mac 4.25M (12.4%)) --> prob=[0.8258239536306636,0.17417604636933634], prediction=0.0
+(Total Units Sold…) --> prob=[0.7313329453796251,0.2686670546203749], prediction=0.0
+(Here's my plan to quickly make 317% on #Apple: Trader. Read more: https://t.co/Fwy3c9txzM $AAPL) --> prob=[0.003284477982454997,0.9967155220175449], prediction=1.0
+(@ValaAfshar Why is than AAPL borrowing money to fund it's stock buybacks? Hopefully  AAPL will never have to pay taxes on all those BILLIONS) --> prob=[0.22891832658439368,0.7710816734156063], prediction=1.0
+(Apple is thinking long-term: R&D spending keeps rising even as revenue dips (AAPL)- Apple's R&D spending jumped a https://t.co/ypeMYeW1w9) --> prob=[0.4374294018762332,0.5625705981237669], prediction=1.0
+(Apple crushed expectations across the board and the stock is way up (AAPL) https://t.co/aJxLUyl1v3 https://t.co/Pt6agR1k3r) --> prob=[0.9939301564291864,0.006069843570813634], prediction=0.0
+(@Dragontraders it's now time to take the ship and poor fuel in its tanks!  Use the cash cook become the tech behemoth u can be $AAPL) --> prob=[0.9995139232118916,4.860767881084341E-4], prediction=0.0
+(Lesson learned to not have Colin Gillis on the tube giving $AAPL advice @ScottWapnerCNBC Love to hear the other side of trade but he's awful) --> prob=[0.9910516390026941,0.008948360997305905], prediction=0.0
+(RT @ValaAfshar: Apple has $231.5 billion in cash. It could buy all) --> prob=[0.999059769136302,9.402308636979582E-4], prediction=0.0
+(—@NBA teams) --> prob=[0.9942039572279752,0.005796042772024854], prediction=0.0
+(...still have $78.5 bi…) --> prob=[0.9927262953972286,0.007273704602771362], prediction=0.0
+(#Apple The iPhone 8 might use iris scanning to complement Touch ID. Read more: https://t.co/ifqP7EAhwU $AAPL) --> prob=[0.99699721556263,0.0030027844373700296], prediction=0.0
+(Tonight's Chinese Version of the recap and look ahead $spy $spx $iwm $xle $fb $aapl  https://t.co/67HwrjT7L8) --> prob=[0.9575961393600604,0.04240386063993974], prediction=0.0
+(RT @Benzinga: Apple's Stock Is Drifting Away In The "Peak Tim Cook" Reality $AAPL https://t.co/O9jzVnWbmR https://t.co/lDtGxQNS1g) --> prob=[0.9894853704978885,0.010514629502111442], prediction=0.0
+(@MarketWatch Looking forward to tomorrow's Fed meeting,  i will be watching  $AAPL $CAT $VZ $UT $MMM $UA $JBLU $UNH & $DD' earnings tomorrow) --> prob=[0.9502818501287897,0.04971814987121015], prediction=0.0
+($AAPL:) --> prob=[0.34191158575645386,0.6580884142435461], prediction=1.0
+(Most Asian Futures Drop With Oil Near 3-Month Low; Yen Steadied:) --> prob=[0.9301798655187342,0.06982013448126571], prediction=0.0
+(Analyst downgrades #Apple and says it has 'peaked'. Read more: https://t.co/COl3LvaJk5 $AAPL) --> prob=[0.9796155598752881,0.020384440124711873], prediction=0.0
+(Analyst downgrades #Apple and says it has 'peaked'. Read more: https://t.co/2YJxlxSWo4 $AAPL) --> prob=[0.8861493273720767,0.11385067262792323], prediction=0.0
+(RT @StockTwits: UPCOMING EARNINGS) --> prob=[0.8135759234792893,0.1864240765207107], prediction=0.0
+(Mon - $GILD $S) --> prob=[0.9968813187770565,0.003118681222943437], prediction=0.0
+(Tue - $TWTR $MCD $UA $AAPL 🚨) --> prob=[0.9757393400996659,0.024260659900334054], prediction=0.0
+(Fri - $XOM $UPS) --> prob=[0.9864980602491208,0.013501939750879276], prediction=0.0
+( https://t…) --> prob=[0.947772726957511,0.05222727304248892], prediction=0.0
+($AAPL Tell me again why on earth you think it is smart to reinvent the wheel instead of buying out $TSLA ?!?) --> prob=[0.030405976495829153,0.9695940235041709], prediction=1.0
+(RT @DomainMondo: Apple $AAPL and Twitter $TWTR, Q2 2016 Earnings Webcasts July 26 https://t.co/oObYE4V3wd #Twitter #Apple #stocks #investor…) --> prob=[0.9866733984513997,0.0133266015486003], prediction=0.0
+(RT @DrivingTheDay: Q2 2016 Earnings Webcasts July 26: #Apple $AAPL and #Twitter $TWTR https://t.co/h70S5UBsCv #iPhone7Pro #stocks #investor…) --> prob=[0.9690383494882518,0.03096165051174822], prediction=0.0
+(RT @DomainMondo: Apple $AAPL and Twitter $TWTR, Q2 2016 Earnings Webcasts July 26 https://t.co/oObYE4V3wd #Twitter #Apple #stocks #investor…) --> prob=[0.9866733984513997,0.0133266015486003], prediction=0.0
+(I'm not going back to Apple after using Windows 10 for a year (MSFT, AAPL) https://t.co/If6UM1n33v #science #techinsider) --> prob=[0.8518059510389588,0.14819404896104127], prediction=0.0
+(RT @DrivingTheDay: Q2 2016 Earnings Webcasts July 26: #Apple $AAPL and #Twitter $TWTR https://t.co/h70S5UBsCv #iPhone7Pro #stocks #investor…) --> prob=[0.9690383494882518,0.03096165051174822], prediction=0.0
+(RT @DomainMondo: Apple $AAPL and Twitter $TWTR, Q2 2016 Earnings Webcasts July 26 https://t.co/oObYE4V3wd #Twitter #Apple #stocks #investor…) --> prob=[0.9866733984513997,0.0133266015486003], prediction=0.0
+(OMG, can people read? Its like a bumper crop of Apples in Washington State this year, so AAPL shoots up. https://t.co/rVEejMwP7I) --> prob=[0.9999919874647064,8.012535293623082E-6], prediction=0.0
+(When is the last time that $AAPL came out with a truly innovative product or feature?  Shame what has happens to that Company) --> prob=[0.9972302180088685,0.0027697819911316523], prediction=0.0
+(RT @DrivingTheDay: Q2 2016 Earnings Webcasts July 26: #Apple $AAPL and #Twitter $TWTR https://t.co/h70S5UBsCv #iPhone7Pro #stocks #investor…) --> prob=[0.9690383494882518,0.03096165051174822], prediction=0.0
+($AAPL:) --> prob=[0.34191158575645386,0.6580884142435461], prediction=1.0
+(LVS CALLS , AAPL puts , Gilead runup calls ,  Nxpi , GROUpon calls , Xom CVX puts . Total domination to start our week w Doctor B Gameplan) --> prob=[0.04654011656127029,0.9534598834387297], prediction=1.0
+(Smartwatch Sales Decline Thanks To Apple (AAPL): Smartwatches saw its first ever decline in shipments in the ... https://t.co/jmD2ZRdB65) --> prob=[0.9616576427530599,0.03834235724694009], prediction=0.0
+(Smartwatch Sales Decline Thanks To Apple (AAPL): Smartwatches saw its first ever decline in shipments in the ... https://t.co/p6VcFkTyLU) --> prob=[0.9776333319924546,0.022366668007545346], prediction=0.0
+(RT @DrivingTheDay: Q2 2016 Earnings Webcasts July 26: #Apple $AAPL and #Twitter $TWTR https://t.co/h70S5UBsCv #iPhone7Pro #stocks #investor…) --> prob=[0.9690383494882518,0.03096165051174822], prediction=0.0
+(Beats1: The best of the best ✊) --> prob=[0.978905883002522,0.021094116997478013], prediction=0.0
+(https://t.co/HSZCv6TFri") --> prob=[0.9642098416155627,0.03579015838443725], prediction=0.0
+(@RudyHavenstein I invest like Warren. Is it a great company that respects and pays its owners? MSFT, AAPL, WMT, VZ.) --> prob=[0.9759028033488228,0.024097196651177186], prediction=0.0
+(Live https://t.co/TZJmvxVQiv in2min Stocks down 77, $TSLA $NFLX $UA up. https://t.co/x4dR8BFxZX $AAPL $TWTR $LABU $GOOGL $FB) --> prob=[0.6249670032561464,0.37503299674385365], prediction=0.0
+(Apple $AAPL and Twitter $TWTR, Q2 2016 Earnings Webcasts July 26 https://t.co/7b93R3O2Yb) --> prob=[0.9842364373202727,0.01576356267972741], prediction=0.0
+(I'm not going back to Apple after using Windows 10 for a year (MSFT, AAPL) https://t.co/Gswmr7GcLN https://t.co/rQTvz2jES0) --> prob=[0.16223810098196903,0.837761899018031], prediction=1.0
+(MacHashNews: 9 big moments in Yahoo's troubled history https://t.co/APYgja1BHr #Macworld $AAPL https://t.co/Pf4WzZZbON #mac #Apple #apple…) --> prob=[0.005904952295430921,0.9940950477045691], prediction=1.0
+(RT @TradingSchool4U: Pump and Dump Emails and Why You Should Avoid Them https://t.co/7vbPnfnkeN via @YouTube #Trading #Stocks #success $AAP…) --> prob=[0.9998426556974993,1.573443025006649E-4], prediction=0.0
+(Chief iPad engineer is now heading Apple's ca.. https://t.co/bNSACXy37I #AAPL #storystream https://t.co/B1XiouJF6P) --> prob=[0.944150440049692,0.05584955995030816], prediction=0.0
+(Chief iPad engineer is now heading Apple's ca.. https://t.co/v11yGFa8HG #AAPL #data #storystream https://t.co/x5VY0FFPgI) --> prob=[0.20251625079268457,0.7974837492073156], prediction=1.0
+(Chief iPad engineer is now heading Apple's ca.. https://t.co/y7Z8f1RUQb #AAPL #storystream https://t.co/wQSRAHs8Bo) --> prob=[0.39998141290225087,0.6000185870977491], prediction=1.0
+(Chief iPad engineer is now heading Apple's ca.. https://t.co/8ayCSGPssf #aapl #storystream https://t.co/YHQt01aQoV) --> prob=[0.6270780327336615,0.3729219672663385], prediction=0.0
+(Chief iPad engineer is now heading Apple's ca.. https://t.co/rXYeKtxe0K #AAPL #news #finance https://t.co/2QfdKdmBpI) --> prob=[0.9931793976165323,0.006820602383467679], prediction=0.0
+(Apple (AAPL) July weekly volatility increases into Q3 and outlook https://t.co/VfkBj6mSsS) --> prob=[0.6433156495531309,0.35668435044686914], prediction=0.0
+(RT @DrivingTheDay: Q2 2016 Earnings Webcasts July 26: #Apple $AAPL and #Twitter $TWTR https://t.co/h70S5UBsCv #iPhone7Pro #stocks #investor…) --> prob=[0.9690383494882518,0.03096165051174822], prediction=0.0
+(Bob Mansfield returns to #Apple, again. Read more: https://t.co/ybrjaZd2QN $AAPL) --> prob=[0.9778087520316746,0.022191247968325285], prediction=0.0
+(RT @ConceptGrp: Apple preview: Experts expect a big plunge in earnings https://t.co/wwtZn1nIXz $AAPL @RayhanulIbrahim https://t.co/HaNhVim9…) --> prob=[0.9957831511770477,0.004216848822952271], prediction=0.0
+(RT @SAlphaTrending: Apple's Smartwatch And The Smartwatch Category Facing Retail Discontinuation By 2018 https://t.co/dfYCWgraFH $FIT $SSNL…) --> prob=[0.8626176172006983,0.13738238279930173], prediction=0.0
+(16th jul. 2012: the rebounding aapl: UnUBsCz) --> prob=[0.9874451709388568,0.01255482906114329], prediction=0.0
+(RT @StockTwits: Here are the companies that report earnings this Tuesday including Apple, McDonald's and more: https://t.co/1pEG92w6FM) --> prob=[0.9742888433575246,0.025711156642475443], prediction=0.0
+($AA…) --> prob=[0.9651218084868662,0.03487819151313372], prediction=0.0
+(9 big moments in Yahoo's troubled history https://t.co/JXDpzyOmS3 #Macworld $AAPL https://t.co/dbIXFfgEZw) --> prob=[0.010429083710849678,0.9895709162891503], prediction=1.0
+(Benzinga: Apple's Stock Is Drifting Away In The "Peak Tim Cook" Reality $AAPL https://t.co/kfUuf7lcXt https://t.co/ZJ7S6abKWx) --> prob=[0.9871980001678977,0.012801999832102328], prediction=0.0
+(#AppleEVRumorUpdate ) --> prob=[0.727046656427764,0.27295334357223594], prediction=0.0
+(07.25.2016 ) --> prob=[0.8820228699956103,0.1179771300043898], prediction=0.0
+($AAPL) --> prob=[0.8377760924126271,0.16222390758737293], prediction=0.0
+(RT @ConceptGrp: Apple preview: Experts expect a big plunge in earnings https://t.co/wwtZn1nIXz $AAPL @RayhanulIbrahim https://t.co/HaNhVim9…) --> prob=[0.9957831511770477,0.004216848822952271], prediction=0.0
+(Interesting read... $AAPL https://t.co/XZuY29gmgD) --> prob=[0.934828845831752,0.06517115416824813], prediction=0.0
+(Final #AAPL #PutCallRatios for Monday, July 25, 2016 https://t.co/Spypu6yFx2 via Hamzei  $$) --> prob=[0.9991791551065452,8.20844893454743E-4], prediction=0.0
+(@JDR1024 @ryanwallace198 @financialbuzz seriously guys- big risk reversals in AAPL today. Watch trades on the open tomorrow. If we get lots) --> prob=[0.9939162577049567,0.006083742295043287], prediction=0.0
+Area under ROC = 0.83374928918936Area under PR = 0.7745891705850987
